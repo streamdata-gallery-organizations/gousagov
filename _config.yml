@@ -1,9 +1,9 @@
-title: Streamdata Gallery
-url: gousagov.api.streamdata.gallery
+title: Streamdata Gallery Go.USA.Gov
+url: gousagov.streamdata.gallery
 tag: Go.USA.Gov
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
-github_user: streamdata-gallery-organizations
+github_user: streamdata-gallery
 github_repo: gousagov
 github_branch: master
 collections:
